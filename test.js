@@ -1,6 +1,7 @@
-def calculate(){
+function calculate(){
 	var num1=5;
 	var num2=10;
 	var add=num1+num2;
-	return add;
+	alert(add);
+
 		}
